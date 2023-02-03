@@ -13,6 +13,8 @@ Get started with RabbitMQ, a message broker, that enables multiple processes to 
 
 `conda install -c conda-forge pika`
 
+###  Comment: All steps completed, found an error in my computer configuration.  Had to configured my backup computer to move foreard with the homework.
+
 ## Read
 
 1. Read the [RabbitMQ Tutorial - Hello, World!](https://www.rabbitmq.com/tutorials/tutorial-one-python.html)
@@ -24,6 +26,8 @@ Get started with RabbitMQ, a message broker, that enables multiple processes to 
 1. Read about.txt. 
 1. Verfiy you have exactly one active, one None env.
 
+### Comment: Task completed.
+
 ## Version 1 - Execute the Producer/Sender
 
 1. Read v1_emit_message.py (and the tutorial)
@@ -31,6 +35,10 @@ Get started with RabbitMQ, a message broker, that enables multiple processes to 
 
 You'll need to fix an error in the program to get it to run.
 Once it runs and finishes, we can reuse the terminal.
+
+### Comment: Task completed, fix the error: localhost.
+
+
 
 ## Version 1 - Execute the Consumer/Listener
 
@@ -41,6 +49,11 @@ You'll need to fix an error in the program to get it to run.
 Once it runs successfully, will it terminate on its own? How do you know? 
 As long as the process is running, we cannot use this terminal for other commands. 
 
+### Comment: Task completed, fix the error: localhost.
+
+![image](https://user-images.githubusercontent.com/111456228/216669877-86442cf1-37fd-4b57-beea-accfc6f5bddc.png)
+
+
 ## Version 1 - Open a New Terminal / Emit More Messages
 
 1. Open a new terminal window.
@@ -49,6 +62,11 @@ As long as the process is running, we cannot use this terminal for other command
 1. Execute the script. 
 1. Watch what happens in the listening window.
 1. Do this several times to emit at least 3 different messages.
+
+### Comment: Task completed, fix the error: localhost. attached screenshot showing version 1 on new terminal
+
+![image](https://user-images.githubusercontent.com/111456228/216669424-5767e0d5-7892-4010-b7b8-57a39057840e.png)
+
 
 ## Version 1: Don't Repeat Yourself (DRY)
 
@@ -63,11 +81,19 @@ To send a new message, you'll only make one change.
 Updating and improving code is called 'refactoring'. 
 Use your skills to keep coding enjoyable. 
 
+### Comment: Task completed, fix the error: localhost. attached screenshot showing version 1 on new terminal
+![image](https://user-images.githubusercontent.com/111456228/216670015-70b9527a-2464-449f-9176-372de18b590f.png)
+
+
 ## Version 2
 
 Now look at the second version of each file.
 These include more graceful error handling,
 and a consistent, reusable approach to building code.
+
+### Comment: Task completed, fix the error: localhost. attached screenshot showing version 2 on new terminal
+![Uploading image.png…]()
+
 
 Each of the version 2 programs include an error as well. 
 
@@ -93,5 +119,8 @@ Each of the version 2 programs include an error as well.
 - [Using Python environments in VS Code](https://code.visualstudio.com/docs/python/environments)
 
 ## Multiple Terminals
+
+![Uploading image.png…]()
+
 
 ![Mac Example](screenshot.png)
