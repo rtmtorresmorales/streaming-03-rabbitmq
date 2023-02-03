@@ -122,5 +122,3 @@ Each of the version 2 programs include an error as well.
 
 ![Uploading image.png…]()
 
-
-![Mac Example](screenshot.png)
