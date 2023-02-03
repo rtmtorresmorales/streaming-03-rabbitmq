@@ -27,6 +27,7 @@ Get started with RabbitMQ, a message broker, that enables multiple processes to 
 1. Verfiy you have exactly one active, one None env.
 
 ### Comment: Task completed.
+![image](https://user-images.githubusercontent.com/111456228/216670668-ec0ed90d-e6fa-4079-aa71-a582e90d5cf1.png)
 
 ## Version 1 - Execute the Producer/Sender
 
