@@ -93,7 +93,7 @@ These include more graceful error handling,
 and a consistent, reusable approach to building code.
 
 ### Comment: Task completed, fix the error: localhost. attached screenshot showing version 2 on new terminal
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/111456228/216670913-6aa3ca30-ea2c-4ede-999a-1df3550c19d3.png)
 
 
 Each of the version 2 programs include an error as well. 
