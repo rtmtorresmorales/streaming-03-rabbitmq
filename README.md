@@ -121,5 +121,8 @@ Each of the version 2 programs include an error as well.
 
 ## Multiple Terminals
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/111456228/216678434-e6ff97fb-16ef-4aff-900d-614f8575c33a.png)
 
+### SYNS to GIT
+
+![Uploading image.png…]()
